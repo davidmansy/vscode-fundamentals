@@ -65,12 +65,6 @@ class CategoryRow extends React.Component<ICategoryRowProps, ICategoryRowState> 
               <img src={`/images/fallback-${this.props.categoryName.toLocaleLowerCase()}.png`} alt="" className="item-image"/>
             </span>
           </li>
-        
-
-
-
-
-
         </ul>
       </li>
     );
